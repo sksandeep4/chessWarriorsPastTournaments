@@ -1,0 +1,185 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica,
+    Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  /* border: 1px red solid; */
+}
+.nav {
+  height: 90px;
+  /* display: inline; */
+}
+.right-nav {
+  display: inline-block;
+  width: 75%;
+  margin: 10px auto;
+}
+
+.logo-instagram {
+  width: 23px;
+  height: 22px;
+}
+.logo-facebook {
+  width: 10px;
+  height: 20px;
+}
+#kidchess {
+  position: relative;
+  display: inline-block;
+  width: 600px;
+  height: 550px;
+  margin: 0px 0px 0px 597px;
+  border-radius: 10px;
+  display: none;
+}
+.navbar-items {
+  margin: 0px 8px;
+  color: #535054;
+  font-weight: 700;
+  font-size: 1.3em;
+  text-decoration: none;
+}
+
+.body {
+  width: 80vw;
+  margin: auto;
+}
+.container-text {
+  /* margin: 50px 0 0 0; */
+  width: 90%;
+  padding: 1.2rem;
+  display: inline-block;
+  text-align: justify;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+}
+.container-purple h1 {
+  padding: 1.2rem 0;
+}
+.second-container {
+  width: 85%;
+  align-items: center;
+}
+.container-purple {
+  color: white;
+  text-align: center;
+  background: #6a308c;
+  /* height: 0px; */
+  width: 90%;
+  margin: 50px auto 0px;
+  border-radius: 10px;
+}
+#container-purple-btn {
+  border: #6a308c solid 1px;
+  display: block;
+  width: 25%;
+  margin: 0 auto;
+  background-color: #f5e4ff;
+  letter-spacing: 1.1px;
+  text-transform: uppercase;
+  color: #6a308c;
+  font-weight: bold;
+  padding: 5px 8px;
+  text-decoration: none;
+}
+.second-container h2 {
+  color: #6a308c;
+  /* width: 90%;
+  margin: 0 auto; */
+}
+.second-container {
+  color: black;
+  text-align: center;
+  background: #ffffff;
+  border: #f5e4ff solid 0.1px;
+  /* height: 0px; */
+  width: 90%;
+  margin: 50px auto 80px;
+  border-radius: 10px;
+  padding: 50px;
+}
+
+.past-tournaments-container {
+  /* text-transform: capitalize; */
+  /* font-size: 3rem; */
+  margin: 20px auto;
+  background-color: #f5e4ff;
+  padding-top: 8px;
+  width: 90%;
+}
+.past-tournaments-container h1 {
+  text-transform: capitalize;
+  font-size: 2.5rem;
+  margin: 0px auto 0;
+  text-align: center;
+  width: 90%;
+}
+.card {
+  width: 375px;
+  background-color: #ffffff;
+  margin: 25px auto 0px;
+  /* padding-bottom: 10px; */
+  border: 0.1px solid #ccc;
+  border-radius: 5px;
+}
+.card-img {
+  width: 375px;
+  height: 372px;
+  border: 0.1px solid #ccc;
+}
+.card-heading {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  width: 90%;
+  margin: 3px auto;
+  text-transform: uppercase;
+  /* display: inline-block; */
+}
+.card-date,
+.card-time {
+  color: #888;
+  margin: 5px 0 5px 5px;
+}
+.card-location {
+  color: #888;
+  margin: 5px 0 10px 5px;
+}
+
+.get-in-touch {
+  width: 55%;
+  margin: 0 auto;
+  text-align: center;
+}
+.get-in-touch p {
+  font-size: 1.2rem;
+  letter-spacing: 1px;
+  padding: 15px;
+}
+.get-in-touch h1 {
+  /* font-size: 1.2rem; */
+  letter-spacing: 1px;
+  margin: 4px;
+}
+.footer {
+  margin: 50px auto 0;
+  /* height: 100vh; */
+  background-color: #6a308c;
+  color: white;
+}
+.footer a {
+  color: white;
+  text-decoration: none;
+}
+.links-footer {
+  display: inline;
+  /* box-sizing: border-box; */
+  text-align: right;
+  align-items: right;
+}
+.footer h1,
+.footer h4 {
+  margin: 1.2em auto;
+}
+span {
+  color: orange;
+}
